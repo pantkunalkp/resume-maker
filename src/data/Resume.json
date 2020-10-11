@@ -1,0 +1,119 @@
+{
+	"Introduction": {
+		"Name": "Kunal Pant",
+		"Job Title": "Software Engineer",
+		"Email": "kunalpant95@gmail.com",
+		"Address": "Haldwani, Nainital",
+		"Mobile No": "6443532643",
+		"Linkedin": "kunal-pant-328577132/",
+		"Github": "pantkunalkp"
+	},
+	"Skills": {
+		"Languages": [
+			{
+				"Name": "Python",
+				"Level": 5
+			},
+			{
+				"Name": "C++",
+				"Level": 4
+			},
+			{
+				"Name": "JavaScript",
+				"Level": 4
+			}
+		],
+		"Tools & Technologies": [ "React.js", "Node.js", "AWS", "MongoDB", "REST" ]
+	},
+	"Education": [
+		{
+			"Title": "B. Tech in Computer Science",
+			"College": "Galgotias University",
+			"CGPA": "8.32",
+			"Start Date": "Sep, 2017",
+			"End Date": "May, 2021"
+		}
+	],
+	"Internships": [
+		{
+			"Title": "Full Stack Developer",
+			"Company": "HireACamp",
+			"Start Date": "May 2020",
+			"End Date": "July 2020",
+			"Details": "Managing the interchange of data between the server and the user\nIntegrating the front end elements built by co-workers into the application"
+		},
+		{
+			"Title": "Full Stack Developer",
+			"Company": "HireACamp",
+			"Start Date": "May 2020",
+			"End Date": "July 2020",
+			"Details": "Managing the interchange of data between the server and the user\nIntegrating the front end elements built by co-workers into the application"
+		}
+	],
+	"Strength": ["Teamwork", "Critical Thinking", "Problem Solving"],
+	"MostProud": ["Finalist of Smart India Hackathon, 2019"],
+	"Projects": [
+		{
+			"Title": "Timetable Generator Using Genetic Algorithms",
+			"Start Date": "Feb 2020",
+			"End Date": "August 2020",
+			"Objective": "To automate the timetable generation process at Galgotias University.",
+			"Description": "This Timetable generator is a full-fleshed Web-App powered by the Genetic Algorithm, can be used to schedule classes for the whole university. This timetable generator is not only limited to Galgotias University, and can be easily configured for other schools and colleges. ",
+			"Team Size": "2",
+			"Technologies": "Python, JavaScript, React.js, GraphQL"
+		},
+		{
+			"Title": "KunalPant.com",
+			"Start Date": "May 2020",
+			"End Date": "",
+			"Objective": "Personal Website",
+			"Description": "This is my Website made with ❤ and React",
+			"Team Size": "Individual",
+			"Technologies": "JavaScript, React.js"
+		},
+		{
+			"Title": "Mess Management System",
+			"Start Date": "Feb 2020",
+			"End Date": "April 2020",
+			"Objective": "To develop an online platform for hostel students.",
+			"Description": "This Mess Management System allows the student to Rate Food, Give Feedback, Choose and View menu, and allows admin the view the feedback and help them generate better a Timetable.",
+			"Team Size": "2",
+			"Technologies": "JavaScript, React.js, firebase"
+		}
+	],
+	"Volunteer": [],
+	"Publications": [
+		{
+			"Title": "Submitted Book Chapter, Machine Learning Algorithms for Healthcare Data Analytics",
+			"Publisher": "CRC Press",
+			"Date": "May, 2021"
+		}
+	],
+	"Certifications": ["40hrs React Developer course, Udemy", "AWS Specialization, Coursera"],
+	"Refrences": [
+		{
+			"name": "Mitul Agrawal",
+			"position": "Co-Founder",
+			"company": "HireACamp",
+			"location": "Dheradun",
+			"website": "https://www.hireacamp.com",
+			"email": "mitul@hireacamp.com"
+		},
+		{
+			"name": "Ms. Indra Kumari",
+			"position": "Professor",
+			"company": "Galgotias University",
+			"location": "Greater Noida",
+			"website": "",
+			"email": "indramurugesh25@gmail.com"
+		},
+		{
+			"name": "Ketki Agarwal",
+			"position": "Trustee",
+			"company": "Lens Foundation",
+			"location": "Delhi",
+			"website": "",
+			"email": "ketki@lensfoundation.com"
+		}
+	]
+}

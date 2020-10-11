@@ -1,0 +1,14 @@
+.con {
+    width: 100%;
+    display: flex;
+    padding: 30px;
+}
+.col-left, .col-right {
+    margin: 10px;
+}
+.col-left {
+    width: 60%;
+}
+.col-right {
+    width: 40%;
+}

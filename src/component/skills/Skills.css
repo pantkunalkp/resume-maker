@@ -1,0 +1,37 @@
+.rating {
+    font-size: 1rem;
+    color: gray;
+}
+.rating-active {
+    color: var(--main-color);
+}
+
+.tag {
+    background-color: transparent;
+    border: .1rem solid var(--main-color);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: var(--main-color);
+    margin: 5px 10px 10px 0;
+    margin-right: 10px;
+}
+.tag:focus {
+    outline: none;
+}
+.tag:hover {
+    transform: scale(1.1);
+}
+.skill {
+    margin-left: 20px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.skill-set {
+    margin-bottom: 20px;
+}
+.tools-tech {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}

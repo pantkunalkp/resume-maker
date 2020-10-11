@@ -1,0 +1,6 @@
+.horizontal {
+    margin: 0;
+    border-top: thick solid var(--main-color);
+    width: 100%;
+    margin-bottom: 1rem;
+}
