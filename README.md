@@ -1,4 +1,20 @@
+# Resume Maker
+
+![Live Priview](/src/images/resume.gif)
+
+## Features
+* Live Editing 
+* Easy customization
+
+## Upcoming Features
+* Save to PDF
+* Live Sharing 
+
+## Contributors
+* [Nikhil Sati](https://nikhilsati.github.io/me)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
